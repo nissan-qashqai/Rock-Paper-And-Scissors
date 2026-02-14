@@ -1,3 +1,0 @@
-# Rock-Paper-And-Scissors
-
-
